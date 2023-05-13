@@ -4,7 +4,7 @@
 body {
   background-color: var(--clr-bg);
   padding: 50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: var(--clr-text);
   font-weight:400;
 }
@@ -78,6 +78,7 @@ pre {
   border-radius: 5px;
   border: 1px solid var(--clr-code-border);
   overflow-x: auto;
+  font-size: 14px;
 }
 
 table {
