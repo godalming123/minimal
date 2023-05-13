@@ -9,8 +9,16 @@ body {
   font-weight:400;
 }
 
-h1, h2, h3, h4, h5, h6 {
+// h1, h2, h3, h4, h5, h6 {
+//   margin: 0px 0 20px;
+// }
+
+h1 {
   margin: 0px 0 20px;
+}
+
+h2, h3, h4, h5, h6 {
+  margin: 20px 0 15px;
 }
 
 // p, ul, ol, table, pre, dl {
